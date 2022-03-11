@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @treggon
 - 👀 I’m interested in physics, coding and futurism.
-- 🌱 I’m currently learning more C#, Blazor
+- 🌱 I’m currently coding more C#, Blazor, Python
 - 💞️ I’m looking to collaborate on automation projects for business
 - 📫 How to reach me treggon@gmail.com
 
