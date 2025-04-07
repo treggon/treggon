@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @treggon
-- 👀 I’m interested in physics, coding and futurism.
+- 👀 I’m interested in physics, robots, coding and futurism.
 - 🌱 I’m currently coding more C#, Blazor, Python
-- 💞️ I’m looking to collaborate on automation projects for business
+- 💞️ I’m looking to collaborate on robotics and AI projects
 - 📫 How to reach me treggon@gmail.com
 - I have most of my projects private, but I commit 3-4 times per week.
 
