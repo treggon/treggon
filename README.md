@@ -4,13 +4,13 @@
 
 🧠 Focus areas:
 - Robotics, autonomy, and sensor fusion (LiDAR, vision, ultrasonic)
-- Embedded Linux & edge devices (Orange Pi, Ubuntu, ROS/ROS-free pipelines)
-- Real-time streaming systems (H.264, MediaMTX, Unity integration)
+- Embedded Linux & edge devices (ARM, ROS/ROS-free pipelines, Yocto customs, C, C++)
+- Real-time streaming systems (H.264, MediaMTX, Unity integration, gstreamer pipelines)
 - Full-stack platforms (C#, ASP.NET/Blazor, Flask, React, SQL Server/Postgres)
 - Cloud & DevOps (Azure, CI/CD, distributed architectures)
 
 🔧 Currently building:
-- Multi-robot real-time mapping pipelines (ROS-free, Unity visualization)
+- Multi-robot real-time pipelines (ROS-free, Unity visualization)
 - High-performance sensor ingestion APIs and telemetry systems
 - Embedded + cloud hybrid robotics platforms
 
