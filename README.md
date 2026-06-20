@@ -1,11 +1,32 @@
-- 👋 Hi, I’m @treggon
-- 👀 I’m interested in embedded linux, physics, robots, coding and futurism.
-- 🌱 I’m currently coding more C, C++, C# and Python
-- 💞️ I’m looking to collaborate on robotics and AI projects
-- 📫 How to reach me treggon@gmail.com
-- I have most of my projects private, but I commit 3-4 times per week.
+👋 Hi, I’m Treggon Owens
 
-<!---
-treggon/treggon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full-stack & embedded linux / robotics engineer with deep experience in embedded systems, real-time data pipelines, and distributed platforms  
+
+🧠 Focus areas:
+- Robotics, autonomy, and sensor fusion (LiDAR, vision, ultrasonic)
+- Embedded Linux & edge devices (Orange Pi, Ubuntu, ROS/ROS-free pipelines)
+- Real-time streaming systems (H.264, MediaMTX, Unity integration)
+- Full-stack platforms (C#, ASP.NET/Blazor, Flask, React, SQL Server/Postgres)
+- Cloud & DevOps (Azure, CI/CD, distributed architectures)
+
+🔧 Currently building:
+- Multi-robot real-time mapping pipelines (ROS-free, Unity visualization)
+- High-performance sensor ingestion APIs and telemetry systems
+- Embedded + cloud hybrid robotics platforms
+
+💡 Background highlights:
+- Built and deployed full-stack systems end-to-end (Azure + CI/CD)
+- Experience with DARPA robotics, biosensors, and defense-grade systems
+- Developed real-time robotics + streaming integrations across hardware/software boundaries
+- Strong hands-on engineering background (from hardware and hydraulics → software systems)
+
+🤝 Open to:
+- Robotics, autonomy, and AI collaborations
+- Senior/principal engineering opportunities
+- Challenging system design and architecture problems
+
+📫 Contact:
+- Email: treggon@gmail.com  
+
+⚠️ Note:
+Most active projects are private/professional, but I commit consistently (3–4x per week).
