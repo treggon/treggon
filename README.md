@@ -1,4 +1,5 @@
 👋 Hi, I’m Treggon Owens
+- I keep most of my repositories private.
 
 🚀 Full-stack & embedded linux / robotics engineer with deep experience in embedded systems, real-time data pipelines, and distributed platforms  
 
